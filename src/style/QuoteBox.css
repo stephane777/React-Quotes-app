@@ -1,0 +1,12 @@
+.QuoteBox {
+    /* border:1px solid #999; */
+    margin-top: 20px;
+    padding:  10px;
+    box-shadow: inset 0 0 18px #999 ; 
+}
+#text {
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: 18px;
+    line-height: 1.9;
+    font-style: italic;
+}

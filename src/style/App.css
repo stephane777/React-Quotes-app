@@ -1,0 +1,12 @@
+
+@import url('https://fonts.googleapis.com/css?family=Gloria+Hallelujah&display=swap');
+.App {
+  text-align: center;
+  
+}
+img {
+  width: 600px;
+}
+h1 {
+  font-family: 'Gloria Hallelujah', cursive;
+}
